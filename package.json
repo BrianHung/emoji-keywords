@@ -1,0 +1,10 @@
+{
+  "name": "emoji-keywords",
+  "version": "1.0.0",
+  "description": "unicode emoji keywords",
+  "main": "emoji-keywords-unicode.json",
+  "repository": {"type": "git", "url": "git+https://github.com/BrianHung/emoji-keywords.git"},
+  "keywords": ["emoji","keywords"],
+  "bugs": {"url": "https://github.com/BrianHung/emoji-keywords/issues"},
+  "homepage": "https://github.com/BrianHung/emoji-keywords#readme"
+}
